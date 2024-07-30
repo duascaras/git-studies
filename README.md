@@ -1,5 +1,3 @@
-# learning git (again)
+# Revisiting Git
 
-repository for git tutorial
-
-This repository is built step by step in the w3 git tutorial.
+This repository was created by following the step-by-step Git tutorial provided by W3.
